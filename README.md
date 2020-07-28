@@ -12,3 +12,5 @@ This is a project for MPTF33 to learn how to make pull requests
 - [sam2020-4](https://github.com/sam2020-4)
 - [Cathrine](https://github.com/KadogoKenya)
 - [nathan](https://github.com/Tu276)
+- [Peris](https://github.com/PerisOduol618)
+
