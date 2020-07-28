@@ -5,3 +5,4 @@ This is a project for MPTF33 to learn how to make pull requests
 
 - [Cynthia](https://github.com/kasambuli)
 - [Eugene](https://github.com/kasambuli)
+- [Peris](https://github.com/PerisOduol618)
