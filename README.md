@@ -7,4 +7,6 @@ This is a project for MPTF33 to learn how to make pull requests
 - [Cynthia](https://github.com/kasambuli)
 - [victor](https://github.com/Davincii254)
 - [Eugene](https://github.com/Eugene2001-boom)
+- [Lourine](https://github.com/Lourine)
+
 
