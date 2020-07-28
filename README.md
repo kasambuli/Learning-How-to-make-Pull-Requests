@@ -9,6 +9,5 @@ This is a project for MPTF33 to learn how to make pull requests
 - [Eugene](https://github.com/Eugene2001-boom)
 - [Lourine](https://github.com/Lourine)
 - [ruthjomo](https://github.com/ruthjomo)
-
-
+- [Peris](https://github.com/PerisOduol618)
 
