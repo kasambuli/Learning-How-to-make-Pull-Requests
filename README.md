@@ -10,3 +10,4 @@ This is a project for MPTF33 to learn how to make pull requests
 - [ruthjomo](https://github.com/ruthjomo)
 - [MOSES](https://github.com/legionpunisher)
 - [sam2020-4](https://github.com/sam2020-4)
+- [Cathrine](https://github.com/KadogoKenya)
